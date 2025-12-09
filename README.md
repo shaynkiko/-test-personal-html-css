@@ -1,6 +1,6 @@
 <h1> THIS IS TEST PROJECT ☠️💀 </h1>
 
-<p> see this project in 
+<p> see this project in
 <a href="https://shaynkiko.github.io/-test-personal-html-css" target="_blank" >
 this link
 </a>
