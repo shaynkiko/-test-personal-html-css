@@ -1,8 +1,10 @@
 <h1> THIS IS TEST PROJECT ☠️💀 </h1>
 
-<p> see this project in </p>
-
-[this url](https://shaynkiko.github.io/-test-personal-html-css/)
+<p> see this project in 
+<a href="https://shaynkiko.github.io/-test-personal-html-css" target="blank" >
+this link
+</a>
+</p>
 
 <h1>technologies used for this test peoject 💻</h1>
 
