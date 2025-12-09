@@ -14,4 +14,4 @@
 
 <p>Better not to know 💀☠️</p>
 
-<a href="https://www.animatedimages.org/cat-frogs-198.htm"><img src="https://www.animatedimages.org/data/media/198/animated-frog-image-0437.gif" border="0" alt="animated-frog-image-0437" /></a>
+<img src="https://www.animatedimages.org/data/media/198/animated-frog-image-0437.gif" border="0" alt="animated-frog-image-0437" />
